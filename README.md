@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
-<h2 align="center"> Hi👋, I'm Chris Kim(Nick is ooweat)!🤗</h2>
-<h3 align="center">I am Full Stack developer who love development</h3>
+<h2 align="center"> 안녕하세요👋, 태우입니다.(Nick is ooweat)!🤗</h2>
+<h3 align="center">저는 사용자를 위해 개발하는 풀스택 엔지니어에요!</h3>
 <p align="center">
-  I believe in the strength of communication and collaboration<br/>
-  hope the work I do bring good to the world<br/><br/>
+  소통과 협업이 주는 힘이 이 세상에 좋은 것을 가져다 줄 것이라고 믿어요 <br>  
   🇰🇷
 </p>
 
